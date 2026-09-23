@@ -1,0 +1,609 @@
+that car was not yellow .it was blue .the car was blue .
+my chair is not red , it is green .so my chair is green .
+sam did not want soup ; he wanted juice .so sam wanted juice .
+my chair is not black , it is green .so my chair is green .
+my lamp is not blue , it is green .so my lamp is green .
+that hat was not yellow .it was green .the hat was green .
+lily did not order fish .she ordered juice .lily ordered juice .
+mia did not order soup .she ordered bread .mia ordered bread .
+that coat was not green .it was red .the coat was red .
+the bike is not green .it is yellow .the bike is yellow .
+lily did not want juice ; she wanted fish .so lily wanted fish .
+that bag was not white .it was yellow .the bag was yellow .
+the chair is not blue .it is yellow .the chair is yellow .
+zoe did not buy milk .she bought fish .zoe bought fish .
+mia did not order milk .she ordered tea .mia ordered tea .
+emma did not order bread .she ordered tea .emma ordered tea .
+my bike is not white , it is blue .so my bike is blue .
+sam did not want soup ; he wanted tea .so sam wanted tea .
+emma did not buy bread .she bought cake .emma bought cake .
+my cup is not green , it is red .so my cup is red .
+sam did not buy juice .he bought bread .sam bought bread .
+my chair is not white , it is black .so my chair is black .
+that bike was not white .it was red .the bike was red .
+sam did not buy soup .he bought cake .sam bought cake .
+ben did not buy cake .he bought fish .ben bought fish .
+the cup is not white .it is green .the cup is green .
+lily did not order fish .she ordered soup .lily ordered soup .
+leo did not buy cake .he bought soup .leo bought soup .
+my lamp is not green , it is black .so my lamp is black .
+zoe did not want juice ; she wanted fish .so zoe wanted fish .
+zoe did not order fish .she ordered rice .zoe ordered rice .
+the gate is not closed .it is open .the gate is open .
+the chair is not green .it is white .the chair is white .
+the road is not narrow .it is wide .the road is wide .
+that car was not black .it was blue .the car was blue .
+zoe did not want milk ; she wanted soup .so zoe wanted soup .
+ben did not order milk .he ordered soup .ben ordered soup .
+the shop is not narrow .it is wide .the shop is wide .
+my coat is not white , it is black .so my coat is black .
+ben did not buy milk .he bought fish .ben bought fish .
+a missing dog came home .
+the box was full of old letters .
+sam did not want juice ; he wanted cake .so sam wanted cake .
+leo did not want bread ; he wanted juice .so leo wanted juice .
+emma did not order juice .she ordered fish .emma ordered fish .
+leo did not want bread ; he wanted rice .so leo wanted rice .
+ben did not want bread ; he wanted cake .so ben wanted cake .
+zoe did not want juice ; she wanted bread .so zoe wanted bread .
+mia did not order cake .she ordered fish .mia ordered fish .
+that lamp was not white .it was yellow .the lamp was yellow .
+zoe did not want cake ; she wanted soup .so zoe wanted soup .
+the chair is not yellow .it is white .the chair is white .
+ava is a student at the school .
+that chair was not white .it was red .the chair was red .
+the lamp is not white .it is green .the lamp is green .
+leo did not want soup ; he wanted bread .so leo wanted bread .
+noah did not buy milk .he bought tea .noah bought tea .
+that bag was not red .it was black .the bag was black .
+leo did not want soup ; he wanted juice .so leo wanted juice .
+noah did not buy bread .he bought juice .noah bought juice .
+lily did not order rice .she ordered tea .lily ordered tea .
+we drink tea in the morning .
+that coat was not yellow .it was blue .the coat was blue .
+sam did not want fish ; he wanted bread .so sam wanted bread .
+that coat was not blue .it was red .the coat was red .
+my hat is not red , it is yellow .so my hat is yellow .
+emma did not buy bread .she bought rice .emma bought rice .
+sam did not buy soup .he bought bread .sam bought bread .
+that bike was not white .it was black .the bike was black .
+noah did not buy soup .he bought juice .noah bought juice .
+ben did not order bread .he ordered juice .ben ordered juice .
+zoe did not order rice .she ordered fish .zoe ordered fish .
+my lamp is not black , it is red .so my lamp is red .
+noah did not order rice .he ordered soup .noah ordered soup .
+my chair is not yellow , it is blue .so my chair is blue .
+noah did not order bread .he ordered rice .noah ordered rice .
+zoe did not want rice ; she wanted cake .so zoe wanted cake .
+that coat was not red .it was green .the coat was green .
+leo did not buy fish .he bought juice .leo bought juice .
+my hat is not red , it is green .so my hat is green .
+my bike is not blue , it is white .so my bike is white .
+sam did not buy juice .he bought tea .sam bought tea .
+ben did not order cake .he ordered tea .ben ordered tea .
+mia did not buy soup .she bought rice .mia bought rice .
+my coat is not black , it is blue .so my coat is blue .
+ava walked to the market with a friend .
+the road is not closed .it is open .the road is open .
+the hat is not green .it is yellow .the hat is yellow .
+that bag was not red .it was yellow .the bag was yellow .
+zoe did not buy fish .she bought soup .zoe bought soup .
+zoe did not order soup .she ordered cake .zoe ordered cake .
+my lamp is not white , it is red .so my lamp is red .
+lily did not buy soup .she bought bread .lily bought bread .
+that hat was not blue .it was green .the hat was green .
+that chair was not blue .it was green .the chair was green .
+noah did not want soup ; he wanted cake .so noah wanted cake .
+one key is missing from the bag .
+lily did not order juice .she ordered bread .lily ordered bread .
+lily did not buy cake .she bought juice .lily bought juice .
+sam did not buy rice .he bought soup .sam bought soup .
+my hat is not red , it is black .so my hat is black .
+mia did not buy milk .she bought rice .mia bought rice .
+noah did not want soup ; he wanted tea .so noah wanted tea .
+mia did not order bread .she ordered juice .mia ordered juice .
+the gate is not narrow .it is wide .the gate is wide .
+my cup is not blue , it is red .so my cup is red .
+mia did not order rice .she ordered juice .mia ordered juice .
+the lamp is not yellow .it is white .the lamp is white .
+zoe did not want fish ; she wanted cake .so zoe wanted cake .
+sam did not buy milk .he bought fish .sam bought fish .
+my coat is not blue , it is white .so my coat is white .
+leo did not order fish .he ordered tea .leo ordered tea .
+my coat is not white , it is red .so my coat is red .
+leo did not order cake .he ordered fish .leo ordered fish .
+emma did not order soup .she ordered juice .emma ordered juice .
+noah did not want fish ; he wanted tea .so noah wanted tea .
+mia did not want fish ; she wanted juice .so mia wanted juice .
+please close the door when you leave .
+my lamp is not blue , it is yellow .so my lamp is yellow .
+noah did not want milk ; he wanted rice .so noah wanted rice .
+emma did not buy rice .she bought juice .emma bought juice .
+ava and leo cooked dinner together .
+my bike is not red , it is black .so my bike is black .
+emma did not want fish ; she wanted cake .so emma wanted cake .
+the car is not green .it is yellow .the car is yellow .
+noah did not order bread .he ordered fish .noah ordered fish .
+noah did not order milk .he ordered juice .noah ordered juice .
+sam did not buy rice .he bought fish .sam bought fish .
+ben did not buy cake .he bought rice .ben bought rice .
+my cup is not white , it is yellow .so my cup is yellow .
+leo did not buy soup .he bought fish .leo bought fish .
+ben did not order milk .he ordered tea .ben ordered tea .
+emma did not buy juice .she bought soup .emma bought soup .
+zoe did not order bread .she ordered fish .zoe ordered fish .
+my hat is not black , it is red .so my hat is red .
+leo did not buy cake .he bought bread .leo bought bread .
+mia did not want rice ; she wanted fish .so mia wanted fish .
+sam did not buy milk .he bought soup .sam bought soup .
+the red box is on the shelf .
+lily did not buy cake .she bought rice .lily bought rice .
+the bike is not blue .it is green .the bike is green .
+sam did not want bread ; he wanted rice .so sam wanted rice .
+my bike is not blue , it is black .so my bike is black .
+mia did not buy juice .she bought bread .mia bought bread .
+that bag was not black .it was green .the bag was green .
+lily did not order juice .she ordered rice .lily ordered rice .
+that bag was not blue .it was black .the bag was black .
+that bag was not green .it was red .the bag was red .
+the bike is not white .it is green .the bike is green .
+that lamp was not red .it was black .the lamp was black .
+ben did not order juice .he ordered tea .ben ordered tea .
+sam did not buy rice .he bought cake .sam bought cake .
+noah did not buy milk .he bought cake .noah bought cake .
+the hat is not white .it is red .the hat is red .
+my car is not black , it is green .so my car is green .
+emma did not buy milk .she bought juice .emma bought juice .
+mia did not buy juice .she bought soup .mia bought soup .
+that cup was not black .it was white .the cup was white .
+noah did not order juice .he ordered soup .noah ordered soup .
+my bag is not black , it is white .so my bag is white .
+leo did not want milk ; he wanted bread .so leo wanted bread .
+emma did not buy fish .she bought soup .emma bought soup .
+my cup is not yellow , it is blue .so my cup is blue .
+ben did not want rice ; he wanted juice .so ben wanted juice .
+sam did not want milk ; he wanted bread .so sam wanted bread .
+the hat is not blue .it is white .the hat is white .
+leo did not buy rice .he bought tea .leo bought tea .
+ben did not buy milk .he bought bread .ben bought bread .
+that hat was not black .it was blue .the hat was blue .
+that cup was not green .it was black .the cup was black .
+ben did not buy milk .he bought cake .ben bought cake .
+leo did not order milk .he ordered soup .leo ordered soup .
+sam did not want juice ; he wanted soup .so sam wanted soup .
+leo did not buy rice .he bought fish .leo bought fish .
+ben did not order fish .he ordered rice .ben ordered rice .
+sam did not order cake .he ordered juice .sam ordered juice .
+zoe did not want bread ; she wanted rice .so zoe wanted rice .
+noah did not order soup .he ordered rice .noah ordered rice .
+leo did not order bread .he ordered fish .leo ordered fish .
+my chair is not green , it is yellow .so my chair is yellow .
+ben did not want milk ; he wanted rice .so ben wanted rice .
+leo did not order rice .he ordered juice .leo ordered juice .
+the cup is not black .it is yellow .the cup is yellow .
+noah did not buy rice .he bought bread .noah bought bread .
+ben did not want fish ; he wanted bread .so ben wanted bread .
+my phone was missing for a day .
+zoe did not buy soup .she bought rice .zoe bought rice .
+that car was not red .it was yellow .the car was yellow .
+zoe did not buy bread .she bought cake .zoe bought cake .
+leo did not order milk .he ordered rice .leo ordered rice .
+noah did not want fish ; he wanted juice .so noah wanted juice .
+ben did not want soup ; he wanted cake .so ben wanted cake .
+the window is not narrow .it is wide .the window is wide .
+my cup is not yellow , it is white .so my cup is white .
+emma did not buy cake .she bought fish .emma bought fish .
+ava likes the park near the school .
+that car was not yellow .it was green .the car was green .
+ben did not buy soup .he bought fish .ben bought fish .
+lily did not want juice ; she wanted cake .so lily wanted cake .
+noah did not order fish .he ordered bread .noah ordered bread .
+my bike is not red , it is green .so my bike is green .
+that bag was not blue .it was green .the bag was green .
+the lamp is not green .it is white .the lamp is white .
+the bike is not green .it is red .the bike is red .
+emma did not order cake .she ordered tea .emma ordered tea .
+that bike was not blue .it was red .the bike was red .
+emma did not buy milk .she bought tea .emma bought tea .
+that coat was not green .it was blue .the coat was blue .
+sam did not order fish .he ordered tea .sam ordered tea .
+noah did not buy juice .he bought bread .noah bought bread .
+my bag is not white , it is green .so my bag is green .
+zoe did not order cake .she ordered bread .zoe ordered bread .
+that car was not red .it was green .the car was green .
+noah did not order cake .he ordered fish .noah ordered fish .
+lily did not order cake .she ordered soup .lily ordered soup .
+emma did not buy cake .she bought soup .emma bought soup .
+emma did not want soup ; she wanted fish .so emma wanted fish .
+my chair is not black , it is yellow .so my chair is yellow .
+mia did not want fish ; she wanted cake .so mia wanted cake .
+zoe did not buy milk .she bought tea .zoe bought tea .
+emma did not buy fish .she bought tea .emma bought tea .
+zoe did not buy bread .she bought soup .zoe bought soup .
+noah did not order soup .he ordered bread .noah ordered bread .
+ben did not order rice .he ordered soup .ben ordered soup .
+my bike is not blue , it is yellow .so my bike is yellow .
+that bag was not yellow .it was black .the bag was black .
+that cup was not blue .it was white .the cup was white .
+my car is not blue , it is green .so my car is green .
+zoe did not buy juice .she bought rice .zoe bought rice .
+lily did not buy soup .she bought cake .lily bought cake .
+ben did not order soup .he ordered juice .ben ordered juice .
+that coat was not blue .it was green .the coat was green .
+that car was not blue .it was red .the car was red .
+the lamp is not white .it is black .the lamp is black .
+that lamp was not green .it was yellow .the lamp was yellow .
+that chair was not white .it was blue .the chair was blue .
+that car was not white .it was yellow .the car was yellow .
+sam did not buy rice .he bought bread .sam bought bread .
+my coat is not red , it is yellow .so my coat is yellow .
+we put the books in a box .
+lily did not want rice ; she wanted bread .so lily wanted bread .
+that cup was not red .it was white .the cup was white .
+mia did not order juice .she ordered tea .mia ordered tea .
+emma did not order soup .she ordered tea .emma ordered tea .
+my bike is not black , it is white .so my bike is white .
+emma did not want soup ; she wanted cake .so emma wanted cake .
+my car is not blue , it is black .so my car is black .
+the bag is not green .it is white .the bag is white .
+my hat is not white , it is blue .so my hat is blue .
+my chair is not blue , it is red .so my chair is red .
+sam did not buy fish .he bought rice .sam bought rice .
+ben did not order fish .he ordered cake .ben ordered cake .
+emma did not order milk .she ordered rice .emma ordered rice .
+the cup is not yellow .it is black .the cup is black .
+ben did not order juice .he ordered rice .ben ordered rice .
+ben did not buy juice .he bought bread .ben bought bread .
+lily did not buy milk .she bought tea .lily bought tea .
+that coat was not green .it was white .the coat was white .
+sam did not want milk ; he wanted rice .so sam wanted rice .
+noah did not buy milk .he bought bread .noah bought bread .
+noah did not want fish ; he wanted cake .so noah wanted cake .
+that coat was not red .it was black .the coat was black .
+lily did not buy milk .she bought soup .lily bought soup .
+leo did not want milk ; he wanted cake .so leo wanted cake .
+my cup is not white , it is blue .so my cup is blue .
+lily did not order bread .she ordered juice .lily ordered juice .
+lily did not order bread .she ordered tea .lily ordered tea .
+mia did not order fish .she ordered soup .mia ordered soup .
+mia did not buy juice .she bought cake .mia bought cake .
+my car is not white , it is red .so my car is red .
+my car is not white , it is green .so my car is green .
+my bag is not black , it is yellow .so my bag is yellow .
+the hat is not black .it is green .the hat is green .
+leo did not buy fish .he bought rice .leo bought rice .
+the lamp is not black .it is green .the lamp is green .
+mia did not buy rice .she bought tea .mia bought tea .
+leo did not order soup .he ordered rice .leo ordered rice .
+that bike was not black .it was green .the bike was green .
+my hat is not blue , it is black .so my hat is black .
+ben did not buy rice .he bought cake .ben bought cake .
+lily did not want juice ; she wanted tea .so lily wanted tea .
+lily did not want bread ; she wanted cake .so lily wanted cake .
+the lamp is not yellow .it is red .the lamp is red .
+emma did not want rice ; she wanted soup .so emma wanted soup .
+sam did not buy fish .he bought soup .sam bought soup .
+my cup is not green , it is yellow .so my cup is yellow .
+lily did not want bread ; she wanted fish .so lily wanted fish .
+that lamp was not yellow .it was black .the lamp was black .
+that lamp was not black .it was blue .the lamp was blue .
+zoe did not buy bread .she bought tea .zoe bought tea .
+leo did not want juice ; he wanted soup .so leo wanted soup .
+ben did not order rice .he ordered bread .ben ordered bread .
+leo did not want cake ; he wanted juice .so leo wanted juice .
+the hat is not yellow .it is black .the hat is black .
+that bag was not white .it was black .the bag was black .
+noah did not buy fish .he bought rice .noah bought rice .
+mia did not want cake ; she wanted tea .so mia wanted tea .
+my car is not blue , it is yellow .so my car is yellow .
+zoe did not order juice .she ordered cake .zoe ordered cake .
+leo did not order soup .he ordered tea .leo ordered tea .
+emma did not want rice ; she wanted fish .so emma wanted fish .
+mia did not order soup .she ordered juice .mia ordered juice .
+the window is not closed .it is open .the window is open .
+ben did not order rice .he ordered tea .ben ordered tea .
+my coat is not white , it is yellow .so my coat is yellow .
+ben did not buy bread .he bought rice .ben bought rice .
+lily did not order milk .she ordered juice .lily ordered juice .
+ben did not order fish .he ordered juice .ben ordered juice .
+leo did not order juice .he ordered cake .leo ordered cake .
+that bike was not white .it was yellow .the bike was yellow .
+the lamp is not blue .it is black .the lamp is black .
+my cup is not green , it is blue .so my cup is blue .
+that bag was not yellow .it was green .the bag was green .
+leo did not buy bread .he bought cake .leo bought cake .
+that coat was not yellow .it was green .the coat was green .
+the bike is not yellow .it is red .the bike is red .
+sam did not want cake ; he wanted soup .so sam wanted soup .
+the chair is not yellow .it is black .the chair is black .
+sam did not want milk ; he wanted cake .so sam wanted cake .
+leo did not want rice ; he wanted soup .so leo wanted soup .
+lily did not buy juice .she bought soup .lily bought soup .
+that bag was not red .it was white .the bag was white .
+lily did not order milk .she ordered bread .lily ordered bread .
+that coat was not blue .it was black .the coat was black .
+my bag is not green , it is yellow .so my bag is yellow .
+leo did not buy milk .he bought juice .leo bought juice .
+emma did not order bread .she ordered soup .emma ordered soup .
+my lamp is not yellow , it is blue .so my lamp is blue .
+zoe did not want milk ; she wanted juice .so zoe wanted juice .
+that chair was not black .it was blue .the chair was blue .
+my lamp is not black , it is white .so my lamp is white .
+my bag is not black , it is blue .so my bag is blue .
+sam did not buy fish .he bought cake .sam bought cake .
+ben did not want cake ; he wanted juice .so ben wanted juice .
+mia did not buy soup .she bought fish .mia bought fish .
+the bag is not white .it is red .the bag is red .
+lily did not want milk ; she wanted cake .so lily wanted cake .
+that car was not black .it was red .the car was red .
+zoe did not want milk ; she wanted bread .so zoe wanted bread .
+the window is not wide .it is narrow .the window is narrow .
+emma did not want juice ; she wanted rice .so emma wanted rice .
+zoe did not want fish ; she wanted bread .so zoe wanted bread .
+sam did not order soup .he ordered fish .sam ordered fish .
+emma did not want fish ; she wanted juice .so emma wanted juice .
+mia did not want bread ; she wanted soup .so mia wanted soup .
+ben did not buy soup .he bought tea .ben bought tea .
+my coat is not blue , it is yellow .so my coat is yellow .
+sam did not order bread .he ordered juice .sam ordered juice .
+ben did not want soup ; he wanted rice .so ben wanted rice .
+the coat is not yellow .it is white .the coat is white .
+sam did not want bread ; he wanted cake .so sam wanted cake .
+noah did not buy milk .he bought fish .noah bought fish .
+that chair was not blue .it was white .the chair was white .
+the coat is not black .it is white .the coat is white .
+that bike was not red .it was yellow .the bike was yellow .
+that lamp was not green .it was red .the lamp was red .
+mia did not buy rice .she bought soup .mia bought soup .
+emma did not buy rice .she bought tea .emma bought tea .
+the car is not blue .it is white .the car is white .
+ben did not buy bread .he bought fish .ben bought fish .
+zoe did not want rice ; she wanted soup .so zoe wanted soup .
+ben did not buy cake .he bought soup .ben bought soup .
+zoe did not order cake .she ordered rice .zoe ordered rice .
+noah did not buy rice .he bought fish .noah bought fish .
+that car was not green .it was white .the car was white .
+leo did not want fish ; he wanted bread .so leo wanted bread .
+ben did not want soup ; he wanted bread .so ben wanted bread .
+emma did not want rice ; she wanted cake .so emma wanted cake .
+my cup is not black , it is blue .so my cup is blue .
+the hat is not green .it is white .the hat is white .
+zoe did not order rice .she ordered tea .zoe ordered tea .
+the bag is not yellow .it is white .the bag is white .
+noah did not order juice .he ordered fish .noah ordered fish .
+leo did not order rice .he ordered bread .leo ordered bread .
+that lamp was not red .it was yellow .the lamp was yellow .
+ben did not buy juice .he bought fish .ben bought fish .
+that cup was not yellow .it was red .the cup was red .
+zoe did not order juice .she ordered soup .zoe ordered soup .
+my bike is not yellow , it is white .so my bike is white .
+my bag is not green , it is blue .so my bag is blue .
+ben did not order bread .he ordered tea .ben ordered tea .
+she likes tea with milk .
+the shop is not wide .it is narrow .the shop is narrow .
+emma did not order milk .she ordered cake .emma ordered cake .
+my coat is not green , it is yellow .so my coat is yellow .
+noah did not buy cake .he bought juice .noah bought juice .
+sam did not order rice .he ordered tea .sam ordered tea .
+lily did not buy cake .she bought bread .lily bought bread .
+sam did not order soup .he ordered rice .sam ordered rice .
+the cup is not black .it is green .the cup is green .
+the hat is not white .it is black .the hat is black .
+ben did not want juice ; he wanted soup .so ben wanted soup .
+the cup is not black .it is red .the cup is red .
+my coat is not black , it is red .so my coat is red .
+zoe did not buy cake .she bought tea .zoe bought tea .
+my lamp is not yellow , it is green .so my lamp is green .
+ben did not order fish .he ordered soup .ben ordered soup .
+lily did not buy rice .she bought fish .lily bought fish .
+leo did not buy cake .he bought rice .leo bought rice .
+that bike was not black .it was blue .the bike was blue .
+ben did not order cake .he ordered bread .ben ordered bread .
+that hat was not blue .it was red .the hat was red .
+my bike is not yellow , it is green .so my bike is green .
+the coat is not green .it is black .the coat is black .
+lily did not order bread .she ordered rice .lily ordered rice .
+zoe did not buy bread .she bought juice .zoe bought juice .
+lily did not buy fish .she bought cake .lily bought cake .
+the shop is not closed .it is open .the shop is open .
+the bag is not green .it is black .the bag is black .
+ben did not buy rice .he bought fish .ben bought fish .
+that lamp was not red .it was green .the lamp was green .
+my chair is not black , it is white .so my chair is white .
+zoe did not want soup ; she wanted juice .so zoe wanted juice .
+that chair was not white .it was green .the chair was green .
+that cup was not red .it was green .the cup was green .
+noah did not want rice ; he wanted tea .so noah wanted tea .
+that car was not red .it was black .the car was black .
+the missing page was found later .
+the bike is not yellow .it is black .the bike is black .
+my bike is not red , it is white .so my bike is white .
+that lamp was not green .it was blue .the lamp was blue .
+lily did not order milk .she ordered rice .lily ordered rice .
+the box on the table is heavy .
+the chair is not green .it is red .the chair is red .
+that lamp was not blue .it was red .the lamp was red .
+a new door was added to the store .
+sam did not want cake ; he wanted fish .so sam wanted fish .
+mia did not buy soup .she bought tea .mia bought tea .
+the gate is not wide .it is narrow .the gate is narrow .
+my car is not white , it is black .so my car is black .
+my cup is not green , it is white .so my cup is white .
+my bike is not black , it is yellow .so my bike is yellow .
+noah did not buy juice .he bought tea .noah bought tea .
+emma did not buy fish .she bought bread .emma bought bread .
+my coat is not red , it is white .so my coat is white .
+my bike is not green , it is white .so my bike is white .
+sam did not buy fish .he bought juice .sam bought juice .
+that hat was not black .it was white .the hat was white .
+that coat was not black .it was yellow .the coat was yellow .
+mia did not order cake .she ordered soup .mia ordered soup .
+noah did not buy bread .he bought tea .noah bought tea .
+lily did not want rice ; she wanted juice .so lily wanted juice .
+leo did not want juice ; he wanted bread .so leo wanted bread .
+noah did not buy juice .he bought rice .noah bought rice .
+my bike is not green , it is blue .so my bike is blue .
+that coat was not yellow .it was black .the coat was black .
+mia did not order juice .she ordered fish .mia ordered fish .
+zoe did not want soup ; she wanted bread .so zoe wanted bread .
+the car is not yellow .it is red .the car is red .
+ava read a book on the train .
+leo did not buy soup .he bought cake .leo bought cake .
+the hat is not green .it is red .the hat is red .
+lily did not buy milk .she bought fish .lily bought fish .
+emma did not order milk .she ordered bread .emma ordered bread .
+the bike is not black .it is red .the bike is red .
+lily did not want fish ; she wanted tea .so lily wanted tea .
+that lamp was not black .it was yellow .the lamp was yellow .
+mia did not order cake .she ordered bread .mia ordered bread .
+ben did not buy bread .he bought soup .ben bought soup .
+noah did not buy rice .he bought cake .noah bought cake .
+mia did not want milk ; she wanted bread .so mia wanted bread .
+lily did not order cake .she ordered fish .lily ordered fish .
+the cup is not blue .it is black .the cup is black .
+mia did not buy rice .she bought cake .mia bought cake .
+my hat is not yellow , it is red .so my hat is red .
+the chair is not yellow .it is red .the chair is red .
+that bag was not yellow .it was blue .the bag was blue .
+leo did not want milk ; he wanted fish .so leo wanted fish .
+lily did not order rice .she ordered cake .lily ordered cake .
+that car was not red .it was white .the car was white .
+emma did not want soup ; she wanted rice .so emma wanted rice .
+lily did not order cake .she ordered tea .lily ordered tea .
+emma did not want cake ; she wanted rice .so emma wanted rice .
+mia did not order milk .she ordered juice .mia ordered juice .
+that chair was not red .it was yellow .the chair was yellow .
+mia did not buy juice .she bought rice .mia bought rice .
+zoe did not order milk .she ordered rice .zoe ordered rice .
+emma did not want bread ; she wanted juice .so emma wanted juice .
+noah did not order fish .he ordered soup .noah ordered soup .
+sam did not want cake ; he wanted bread .so sam wanted bread .
+my bag is not black , it is red .so my bag is red .
+noah did not order milk .he ordered soup .noah ordered soup .
+the hat is not white .it is green .the hat is green .
+sam did not want cake ; he wanted rice .so sam wanted rice .
+my coat is not white , it is green .so my coat is green .
+a small box sat near the window .
+emma did not buy milk .she bought fish .emma bought fish .
+mia did not buy bread .she bought rice .mia bought rice .
+my cup is not blue , it is yellow .so my cup is yellow .
+that car was not green .it was blue .the car was blue .
+emma did not want bread ; she wanted fish .so emma wanted fish .
+sam did not buy milk .he bought tea .sam bought tea .
+that chair was not green .it was blue .the chair was blue .
+sam did not buy juice .he bought fish .sam bought fish .
+zoe did not buy soup .she bought tea .zoe bought tea .
+emma did not order soup .she ordered bread .emma ordered bread .
+that coat was not yellow .it was red .the coat was red .
+that chair was not black .it was red .the chair was red .
+the car is not yellow .it is white .the car is white .
+leo did not buy juice .he bought rice .leo bought rice .
+that hat was not green .it was blue .the hat was blue .
+that bag was not yellow .it was red .the bag was red .
+sam did not order rice .he ordered juice .sam ordered juice .
+sam did not want milk ; he wanted juice .so sam wanted juice .
+leo did not want fish ; he wanted soup .so leo wanted soup .
+emma did not order cake .she ordered juice .emma ordered juice .
+zoe did not want juice ; she wanted tea .so zoe wanted tea .
+emma did not want juice ; she wanted bread .so emma wanted bread .
+sam did not want juice ; he wanted rice .so sam wanted rice .
+lily did not buy soup .she bought tea .lily bought tea .
+mia did not buy bread .she bought tea .mia bought tea .
+that car was not white .it was blue .the car was blue .
+zoe did not want cake ; she wanted fish .so zoe wanted fish .
+noah did not buy bread .he bought soup .noah bought soup .
+lily did not order soup .she ordered fish .lily ordered fish .
+mia did not want milk ; she wanted cake .so mia wanted cake .
+my lamp is not blue , it is white .so my lamp is white .
+mia did not want rice ; she wanted bread .so mia wanted bread .
+mia did not buy fish .she bought bread .mia bought bread .
+my car is not yellow , it is black .so my car is black .
+mia did not want cake ; she wanted rice .so mia wanted rice .
+lily did not order fish .she ordered rice .lily ordered rice .
+my car is not green , it is red .so my car is red .
+my bag is not blue , it is white .so my bag is white .
+noah did not want cake ; he wanted tea .so noah wanted tea .
+that car was not green .it was black .the car was black .
+lily did not buy soup .she bought rice .lily bought rice .
+the door of the office is old .
+emma did not order juice .she ordered cake .emma ordered cake .
+noah did not want rice ; he wanted juice .so noah wanted juice .
+the road is not wide .it is narrow .the road is narrow .
+that cup was not white .it was red .the cup was red .
+my hat is not white , it is yellow .so my hat is yellow .
+lily did not want bread ; she wanted soup .so lily wanted soup .
+zoe did not buy soup .she bought fish .zoe bought fish .
+that bag was not white .it was blue .the bag was blue .
+zoe did not want rice ; she wanted bread .so zoe wanted bread .
+my coat is not white , it is blue .so my coat is blue .
+emma did not want juice ; she wanted tea .so emma wanted tea .
+my hat is not red , it is white .so my hat is white .
+that bag was not red .it was green .the bag was green .
+mia did not want milk ; she wanted soup .so mia wanted soup .
+my cup is not yellow , it is green .so my cup is green .
+emma did not buy fish .she bought rice .emma bought rice .
+emma did not buy milk .she bought soup .emma bought soup .
+my coat is not black , it is green .so my coat is green .
+noah did not buy cake .he bought bread .noah bought bread .
+ben did not buy juice .he bought cake .ben bought cake .
+noah did not want juice ; he wanted cake .so noah wanted cake .
+my hat is not yellow , it is blue .so my hat is blue .
+my chair is not red , it is black .so my chair is black .
+leo did not order bread .he ordered soup .leo ordered soup .
+the chair is not blue .it is black .the chair is black .
+noah did not order bread .he ordered cake .noah ordered cake .
+sam did not buy bread .he bought soup .sam bought soup .
+zoe did not want fish ; she wanted tea .so zoe wanted tea .
+the chair is not green .it is black .the chair is black .
+emma did not want rice ; she wanted bread .so emma wanted bread .
+the front door is wide .
+mia did not want milk ; she wanted fish .so mia wanted fish .
+leo did not want juice ; he wanted fish .so leo wanted fish .
+leo did not want juice ; he wanted tea .so leo wanted tea .
+my cup is not white , it is black .so my cup is black .
+zoe did not want fish ; she wanted juice .so zoe wanted juice .
+my hat is not green , it is black .so my hat is black .
+ben did not order milk .he ordered juice .ben ordered juice .
+that chair was not red .it was white .the chair was white .
+the bag is not blue .it is red .the bag is red .
+mia did not order fish .she ordered rice .mia ordered rice .
+my bag is not blue , it is yellow .so my bag is yellow .
+the cup is not blue .it is green .the cup is green .
+noah did not want cake ; he wanted rice .so noah wanted rice .
+mia did not order soup .she ordered cake .mia ordered cake .
+that lamp was not red .it was white .the lamp was white .
+noah did not buy soup .he bought fish .noah bought fish .
+leo did not buy rice .he bought cake .leo bought cake .
+lily did not want fish ; she wanted bread .so lily wanted bread .
+the car is not black .it is yellow .the car is yellow .
+the door to the kitchen is green .
+sam did not order cake .he ordered tea .sam ordered tea .
+my cup is not red , it is yellow .so my cup is yellow .
+that bike was not green .it was black .the bike was black .
+zoe did not buy milk .she bought cake .zoe bought cake .
+my lamp is not white , it is blue .so my lamp is blue .
+leo did not buy fish .he bought cake .leo bought cake .
+my hat is not blue , it is yellow .so my hat is yellow .
+mia did not want bread ; she wanted fish .so mia wanted fish .
+sam did not order bread .he ordered tea .sam ordered tea .
+emma did not buy cake .she bought bread .emma bought bread .
+sam did not order bread .he ordered fish .sam ordered fish .
+zoe did not want rice ; she wanted juice .so zoe wanted juice .
+mia did not buy fish .she bought tea .mia bought tea .
+my cup is not red , it is black .so my cup is black .
+lily did not order rice .she ordered soup .lily ordered soup .
+leo did not buy milk .he bought tea .leo bought tea .
+that chair was not yellow .it was green .the chair was green .
+my bike is not yellow , it is blue .so my bike is blue .
+lily did not buy soup .she bought juice .lily bought juice .
+my hat is not yellow , it is white .so my hat is white .
+leo did not buy cake .he bought tea .leo bought tea .
+mia did not order bread .she ordered cake .mia ordered cake .
+leo did not order bread .he ordered tea .leo ordered tea .
+noah did not buy cake .he bought soup .noah bought soup .
+zoe did not want cake ; she wanted juice .so zoe wanted juice .
+my car is not black , it is white .so my car is white .
+the hat is not black .it is yellow .the hat is yellow .
+that chair was not white .it was yellow .the chair was yellow .
+ben did not want fish ; he wanted tea .so ben wanted tea .
+mia did not want cake ; she wanted juice .so mia wanted juice .
